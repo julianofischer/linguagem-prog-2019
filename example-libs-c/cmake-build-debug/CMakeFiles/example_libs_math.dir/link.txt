@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/example_libs_math.dir/example-math-lib.c.o  -o example_libs_math -lm 

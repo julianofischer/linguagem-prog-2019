@@ -1,0 +1,4 @@
+/home/juliano/CLionProjects/example-libs-c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/juliano/CLionProjects/example-libs-c/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/juliano/CLionProjects/example-libs-c/cmake-build-debug/CMakeFiles/example_libs_strings.dir
+/home/juliano/CLionProjects/example-libs-c/cmake-build-debug/CMakeFiles/example_libs_math.dir
