@@ -69,4 +69,6 @@ int main() {
     printf("%d\n", strcmp("banana", "abacate")); //retorna 1
     printf("%d\n", strcmp("abacate", "abacate")); //retorna 0
 
+    return 0;
+
 }

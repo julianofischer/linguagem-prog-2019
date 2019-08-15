@@ -55,4 +55,5 @@ int main() {
     f = 10.0 * 10.0 * 10.0 * 10.0;
     printf("%.2f\n", log10(f)); //exibirá 4.00
 
+    return 0;
 }
